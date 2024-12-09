@@ -1,0 +1,19 @@
+!<thin>
+//                                              180       `
+devfreq.o/
+governor_simpleexynos.o/
+governor_simpleinteractive.o/
+governor_performance.o/
+governor_powersave.o/
+governor_userspace.o/
+governor_passive.o/
+exynos/exynos-devfreq.o/
+
+/0              0           0     0     644     226688    `
+/11             0           0     0     644     91360     `
+/36             0           0     0     644     95264     `
+/66             0           0     0     644     49368     `
+/90             0           0     0     644     49312     `
+/112            0           0     0     644     57992     `
+/134            0           0     0     644     56488     `
+/154            0           0     0     644     394720    `

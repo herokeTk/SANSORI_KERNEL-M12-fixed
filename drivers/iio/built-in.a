@@ -1,0 +1,20 @@
+!<thin>
+//                                              192       `
+industrialio-core.o/
+industrialio-event.o/
+inkern.o/
+industrialio-buffer.o/
+industrialio-configfs.o/
+industrialio-sw-device.o/
+industrialio-sw-trigger.o/
+adc/exynos_adc.o/
+buffer/kfifo_buf.o/
+/0              0           0     0     644     303376    `
+/21             0           0     0     644     178968    `
+/43             0           0     0     644     146288    `
+/53             0           0     0     644     256312    `
+/76             0           0     0     644     30424     `
+/101            0           0     0     644     77264     `
+/127            0           0     0     644     50136     `
+/154            0           0     0     644     233432    `
+/172            0           0     0     644     158168    `

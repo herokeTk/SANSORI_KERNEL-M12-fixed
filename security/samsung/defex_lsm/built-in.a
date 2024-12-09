@@ -1,0 +1,37 @@
+!<thin>
+//                                              472       `
+core/defex_common.o/
+core/defex_lsm.o/
+core/defex_main.o/
+core/defex_get_mode.o/
+core/defex_rules_proc.o/
+core/defex_tailer.o/
+catch_engine/defex_catch_list.o/
+catch_engine/defex_ht.o/
+defex_rules.o/
+catch_engine/defex_catch_list_compat.o/
+feature_privilege_escalation_detection/defex_priv.o/
+feature_safeplace/defex_safeplace.o/
+feature_safeplace/defex_integrity.o/
+feature_immutable/defex_immutable.o/
+catch_engine/defex_caches.o/
+cert/defex_cert.o/
+cert/defex_sign.o/
+
+/0              0           0     0     644     129216    `
+/21             0           0     0     644     189880    `
+/39             0           0     0     644     221320    `
+/58             0           0     0     644     3392      `
+/81             0           0     0     644     149832    `
+/106            0           0     0     644     11800     `
+/127            0           0     0     644     20968     `
+/160            0           0     0     644     155144    `
+/185            0           0     0     644     1224      `
+/200            0           0     0     644     20440     `
+/240            0           0     0     644     4512      `
+/293            0           0     0     644     4488      `
+/330            0           0     0     644     4488      `
+/367            0           0     0     644     4488      `
+/404            0           0     0     644     100976    `
+/433            0           0     0     644     2072      `
+/452            0           0     0     644     78976     `

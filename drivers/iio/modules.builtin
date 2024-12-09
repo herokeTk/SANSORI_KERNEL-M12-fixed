@@ -1,0 +1,6 @@
+kernel/drivers/iio/industrialio.ko
+kernel/drivers/iio/industrialio-configfs.ko
+kernel/drivers/iio/industrialio-sw-device.ko
+kernel/drivers/iio/industrialio-sw-trigger.ko
+kernel/drivers/iio/adc/exynos_adc.ko
+kernel/drivers/iio/buffer/kfifo_buf.ko

@@ -1,0 +1,22 @@
+!<thin>
+//                                              160       `
+seq_oss.o/
+seq_oss_init.o/
+seq_oss_timer.o/
+seq_oss_ioctl.o/
+seq_oss_event.o/
+seq_oss_rw.o/
+seq_oss_synth.o/
+seq_oss_midi.o/
+seq_oss_readq.o/
+seq_oss_writeq.o/
+/0              0           0     0     644     152544    `
+/11             0           0     0     644     165592    `
+/27            /0           0     0     644     156968    `
+/44            /0           0     0     644     244104    `
+/61            /0           0     0     644     40680     `
+/78             0           0     0     644     128536    `
+/92            /0           0     0     644     220000    `
+/109            0           0     0     644     174336    `
+/125           /0           0     0     644     124840    `
+/142            0           0     0     644     123528    `
