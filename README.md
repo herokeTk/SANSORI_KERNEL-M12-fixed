@@ -1,1 +1,1 @@
-git clone https://github.com/herokeTk/SANSORI_KERNEL-M12-fixed.git
+git clone https://github.com/herokeTk/ZEUS_KERNEL-M12.git
